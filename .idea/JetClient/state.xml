@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <iK>
+                      <option name="token" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJmYTkxMWI2LTk2N2YtNGRhYS05OGNkLTEzZjcwNGYyYTI2ZCIsInVzZXJuYW1lIjoiZGF2aWRpYW4xOTg2IiwiaWF0IjoxNjk0NzgxNDQxfQ.KoJgrbjEBJpbqitwHfE-ccVtA4WHqarxEBxRF-O1dYg" />
+                    </iK>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="ef9b2360-67a1-4344-a0d9-9c53adc2d0cb" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="url" value="http://localhost:3001/api/updates" />
+            </requestState>
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <iK>
+                      <option name="token" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJmYTkxMWI2LTk2N2YtNGRhYS05OGNkLTEzZjcwNGYyYTI2ZCIsInVzZXJuYW1lIjoiZGF2aWRpYW4xOTg2IiwiaWF0IjoxNjk0MTAxMjY1fQ.Paze8e4yyD0UE3xsxfWjG69NBjeFQ3FzgmC08t3c_SY" />
+                    </iK>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &quot;name&quot;: &quot;idemo 4&quot;&#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="51be35ba-0208-42ca-8c9a-82e82767cf86" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="Draft 1" />
+              <option name="url" value="http://localhost:3001/api/product/216ee88a-6cce-41a" />
+            </requestState>
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <iK>
+                      <option name="token" value="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjJmYTkxMWI2LTk2N2YtNGRhYS05OGNkLTEzZjcwNGYyYTI2ZCIsInVzZXJuYW1lIjoiZGF2aWRpYW4xOTg2IiwiaWF0IjoxNjk0MTAxMjY1fQ.Paze8e4yyD0UE3xsxfWjG69NBjeFQ3FzgmC08t3c_SY" />
+                    </iK>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="body">
+                <bodyState>
+                  <option name="raw" value="{&#10;  &#10;}" />
+                  <option name="type" value="JSON" />
+                </bodyState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Content-Type" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="6ce600b7-c2a4-49d7-bb96-85aa4386974f" />
+              <option name="method" value="PUT" />
+              <option name="name" value="Draft 2" />
+              <option name="url" value="http://localhost:3001/api/product/334" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="c7d98021-eb7e-473f-9a47-cce56d3b2131" />
+  </component>
+</project>
